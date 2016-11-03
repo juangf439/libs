@@ -1,0 +1,6 @@
+Registros
+=========
+      
+.. automodule:: regs
+   :members: 
+

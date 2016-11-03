@@ -1,0 +1,5 @@
+Nomina
+======
+
+.. automodule:: nomina
+   :members: 
